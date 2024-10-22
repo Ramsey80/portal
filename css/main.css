@@ -18,7 +18,7 @@ h1 {
     font-family:'Times New Roman', Georgia, Times, serif;
     font-weight: normal;
     margin: auto;
-    background: #000;
+    background: whitesmoke;
     line-height: 2.5em;
 }
 
@@ -29,6 +29,7 @@ main.wrapper {
 
 p {
     margin: 1em; /* Top Right Bottom Left (TRBL) */
+    font-family:'Times New Roman', Georgia, Times, serif;
 }
 
 h2,h3 {
