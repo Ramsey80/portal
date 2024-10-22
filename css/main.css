@@ -43,12 +43,14 @@ a {
 }
 
 a:hover {
+    font-family: 'Times New Roman', Georgia, Times, serif;
     color: whitesmoke;
     background-color: darkcyan;
     text-decoration: none;
 }
 
 footer {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     clear: both;
     text-align: center;
     padding: 1em;
