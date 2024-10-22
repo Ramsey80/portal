@@ -37,6 +37,7 @@ h2,h3 {
 }
 
 a {
+    font-family: 'Times New Roman', Georgia, Times, serif;
     color:darkcyan;
     text-decoration: none;
 }
